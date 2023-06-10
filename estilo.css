@@ -1,0 +1,38 @@
+/* Definindo o estilo do corpo do aplicativo */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  /* Definindo o estilo para o título do aplicativo */
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  
+  /* Definindo o estilo para o formulário de entrada */
+  form {
+    margin: 200px auto;
+    max-width: 4000px;
+    padding: 200px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+  }
+  
+  /* Definindo o estilo para os campos de entrada */
+  input[type="text"],
+  textarea {
+    width: 1000%;
+    padding: 100px;
+    margin-bottom: 100px;
+  }
+  
+  /* Definindo o estilo para o botão de salvar */
+  button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
